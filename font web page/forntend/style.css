@@ -1,0 +1,10 @@
+label{display:block;margin-bottom: 10px; font-size: 18px;}
+input, select,textarea{width: 90%;padding: 10px 2%;border: 1px solid #ddd;}
+select{width:94%;}
+textarea{min-height: 100%;}
+input[type="submit"] {background: aqua; border: 1px solid aqua;width: 200px;cursor: pointer;transition: 0.5s ;}
+input[type="submit"]:hover{background: #000; border: 1px solid #000; color:#fff;}
+
+    .search_form{width: 100%;max-width:500px; margin: 20px; }
+  .button{width: 100%; text-align: center;}
+  

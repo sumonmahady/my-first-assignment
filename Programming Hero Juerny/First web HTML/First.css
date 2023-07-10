@@ -1,0 +1,37 @@
+img{
+    height: 300px;
+    width: 400px;
+    
+}
+h1{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+span{
+    color: brown;
+    text-decoration: underline;
+}
+h2{
+    color: darkgoldenrod;
+}
+
+    
+a{
+    text-decoration: none;
+    color: rgb(0, 128, 45);
+  
+}
+
+.fao{
+    color: lime;
+}
+table,th,td{
+    width: 60%;
+    border: 1px solid black;
+}
+
+a:hover{
+    color: pink;
+}
+/* amni amni amni amni */
